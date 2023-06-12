@@ -14,7 +14,7 @@ A EcoHarvest é uma empresa líder em fornecimento de grãos para distribuidoras
 
 ## 💻 Sobre o Projeto
 
-Este projeto foi desenvolvido utilizando Java e NetBeans, com funcionalidades CRUD e um banco de dados SQLite local. O propósito do sistema é ajudar a gerenciar nossos funcionários de maneira eficiente e transparente. 
+Este projeto foi desenvolvido utilizando Java e NetBeans, com funcionalidades CRUD e um banco de dados MySQL local. O propósito do sistema é ajudar a gerenciar nossos funcionários de maneira eficiente e transparente. 
 
 Nosso sistema segue um modelo iterativo de desenvolvimento, o que nos permite melhorar e adaptar nossos processos de forma constante e eficaz. 
 
